@@ -1,6 +1,6 @@
 package test;
 
-import designpatterns.singletondesign.SingletonWithoutThreadSafety;
+import designpatterns.creational.singletondesign.SingletonWithoutThreadSafety;
 
 public class TestClasses {
 
